@@ -20,7 +20,7 @@
 
 | Home Screen | Detail Screen | Nested Comments |
 |:-----------:|:-------------:|:---------------:|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Comments](screenshots/comments.png) |
+| ![Home](screenshots/home.jpeg) | ![Detail](screenshots/detail.jpeg) | ![Comments](screenshots/comments.jpeg) |
 | Top stories with rank, score, domain | Story header + comment thread | Recursive nested comments with thread lines |
 
 > **UI matches the real [news.ycombinator.com](https://news.ycombinator.com) aesthetic** — off-white `#F6F6EF` background, HN orange `#FF6600`, minimal and developer-focused.
@@ -29,9 +29,9 @@
 
 ## ⬇️ Download
 
-> **[⬇️ Download Latest APK](https://github.com/Ganesh-AIML/hn-reader-flutter/releases/latest/download/hn-reader.apk)**
+> **[⬇️ Download Latest APK](https://github.com/Ganesh-AIML/hn-reader-flutter/releases/latest/download/app-release.apk)**
 
-Or go to [Releases](https://github.com/Ganesh-AIML/hn-reader-flutter/releases) and download `hn-reader.apk`.
+Or go to [Releases](https://github.com/Ganesh-AIML/hn-reader-flutter/releases) and download `app-release.apk`.
 
 ---
 
